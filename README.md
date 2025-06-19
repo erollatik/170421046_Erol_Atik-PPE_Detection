@@ -230,7 +230,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 ```bash
 # 1. Projeyi klonla
-git clone <repository-url>
+git clone https://github.com/erollatik/170421046_Erol_Atik-PPE_Detection.git
 cd ppe
 
 # 2. Build dizini oluştur
